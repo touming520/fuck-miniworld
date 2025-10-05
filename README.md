@@ -1,5 +1,8 @@
 # 去你妈的迷你世界
 一个提供迷你世界最新的外桂
+
+想要下载请访问https://github.com/touming520/fuck-miniworld/releases
+
 > [!CAUTION]
 > 必须运行过ACE软件后才可使用！！！
 > 否则后果自负
